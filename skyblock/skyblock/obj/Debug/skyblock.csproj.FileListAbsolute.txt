@@ -1,0 +1,11 @@
+C:\Users\linus\source\repos\skyblock\skyblock\bin\Debug\skyblock.exe.config
+C:\Users\linus\source\repos\skyblock\skyblock\bin\Debug\skyblock.exe
+C:\Users\linus\source\repos\skyblock\skyblock\bin\Debug\skyblock.pdb
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.csproj.AssemblyReference.cache
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.csproj.SuggestedBindingRedirects.cache
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.Form1.resources
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.Properties.Resources.resources
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.csproj.GenerateResource.cache
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.csproj.CoreCompileInputs.cache
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.exe
+C:\Users\linus\source\repos\skyblock\skyblock\obj\Debug\skyblock.pdb
